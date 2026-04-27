@@ -199,5 +199,4 @@ P001,F,1955-06-04,D005,Dermatology,26,A197,2023-04-01,No-show,T197,Physiotherapy
 P022,M,1955-05-10,D006,Pediatrics,23,A198,2023-05-15,No-show,T198,ECG,3383.72,2023-05-15,B198,3383.72,Cash,Failed
 P017,M,1991-05-01,D001,Dermatology,17,A199,2023-05-01,Completed,T199,Chemotherapy,1472.17,2023-05-01,B199,1472.17,Credit Card,Paid
 P007,F,1989-06-08,D005,Dermatology,26,A200,2023-12-30,Cancelled,T200,X-Ray,3288.15,2023-12-30,B200,3288.15,Insurance,Paid
-P006,M,1963-06-16,,,,,,,,,,,,,,
-P015,M,1964-05-11,,,,,,,,,,,,,,
+
